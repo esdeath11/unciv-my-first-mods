@@ -3,7 +3,7 @@
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Zendric",
-		"cost": 480,
+		"cost": 120,
 		"happiness": 12,
 		"culture": 12,
 		"science": 120,
