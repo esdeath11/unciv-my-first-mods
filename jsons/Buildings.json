@@ -30,7 +30,6 @@
 		"happiness": 100,
 		"culture": 15,
 		"science": 20,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": ""
+		"uniques": ["40% of food is carried over after a new citizen is born"]
 	}
 ]
