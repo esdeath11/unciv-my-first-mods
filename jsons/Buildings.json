@@ -21,5 +21,16 @@
 		"happiness": 50,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Quanture",
+		"uniqueTo": "Zendric",
+		"cost": 250,
+		"hurryCostModifier": 160,
+		"happiness": 100,
+		"culture": 15,
+		"science": 20,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": ""
 	}
 ]
