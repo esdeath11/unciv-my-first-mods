@@ -16,14 +16,12 @@
 	},
 	{
 		"name": "Eyzric",
-		"unitType": "Ranged",
+		"unitType": "Melee",
 		"uniqueTo": "Zendric",
-		"movement": 7,
-		"strength": 3,
-		"rangedStrength": 12,
-		"range": 5,
-		"cost": 25,
-		"promotions": ["Logistics","Accuracy I"],
+		"movement": 8,
+		"strength": 12,
+		"cost": 50,
+		"promotions": ["Logistics","Accuracy I", "Accuracy II"],
 		"attackSound": "phasers"
 	}
 ]
