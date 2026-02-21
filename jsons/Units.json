@@ -13,5 +13,17 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Eyzric",
+		"unitType": "Ranged",
+		"uniqueTo": "Zendric",
+		"movement": 7,
+		"strength": 3,
+		"rangedStrength": 12,
+		"range": 5,
+		"cost": 25,
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
 	}
 ]
