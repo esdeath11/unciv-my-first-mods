@@ -3,9 +3,10 @@
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Zendric",
-		"cost": 120,
-		"happiness": 12,
-		"culture": 12,
+		"cost": 300,
+		"hurryCostModifier": 10000,
+		"happiness": 100,
+		"culture": 120,
 		"science": 120,
 		"maintenance": 96,
 		"isNationalWonder": true,
@@ -25,11 +26,13 @@
 	{
 		"name": "Quanture",
 		"uniqueTo": "Zendric",
-		"cost": 250,
-		"hurryCostModifier": 160,
-		"happiness": 100,
-		"culture": 15,
-		"science": 20,
+		"cost": 25,
+		"hurryCostModifier": 100,
+		"happiness": 25,
+		"culture": 25,
+		"science": 30,
+		"faith": 25,
+		"gold": 25
 		"uniques": ["40% of food is carried over after a new citizen is born"]
 	}
 ]
